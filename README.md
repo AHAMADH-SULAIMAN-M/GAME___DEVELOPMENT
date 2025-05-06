@@ -159,9 +159,11 @@ clrscr();
    getch(); 
  }
 ## Output :
-![Screenshot 2025-05-06 223807](https://github.com/user-attachments/assets/cc0aa5f4-14f7-45e1-8957-2990b4e76cc6)
-![Screenshot 2025-05-06 223752](https://github.com/user-attachments/assets/a2cbd2f0-cff6-40a6-bab6-02ff60ea5a0d)
 ![Screenshot 2025-05-06 223728](https://github.com/user-attachments/assets/5d51900d-d0ad-49ce-be69-fb2662aa14a1)
+
+![Screenshot 2025-05-06 223752](https://github.com/user-attachments/assets/a2cbd2f0-cff6-40a6-bab6-02ff60ea5a0d)
+
+![Screenshot 2025-05-06 223807](https://github.com/user-attachments/assets/cc0aa5f4-14f7-45e1-8957-2990b4e76cc6)
 
 ## Result :
 Thus to write a c program to implement 2D transformation of image is implemented successfully.
