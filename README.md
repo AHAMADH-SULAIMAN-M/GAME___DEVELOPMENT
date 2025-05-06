@@ -23,6 +23,7 @@ Step 7 : Stop the program.
 
 
 ## Program :
+
 #include<stdio.h>
 #include<graphics.h> 
 #include<process.h>
@@ -158,6 +159,8 @@ clrscr();
    closegraph(); 
    getch(); 
  }
+
+ 
 ## Output :
 ![Screenshot 2025-05-06 223728](https://github.com/user-attachments/assets/5d51900d-d0ad-49ce-be69-fb2662aa14a1)
 
